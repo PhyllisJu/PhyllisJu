@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
-<h3 align="center">Front-end Engineer / User Experience Designer / Contralto</h3>
+<h1 align="left">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
+<h3 align="left">Front-end Engineer / User Experience Designer / Contralto</h3>
+<br />
 
 - 🔭 I’m currently working on **MusePot (Start-up) as a front-end developer & designer.**
 
-- 🌱 I’m currently learning **React, Redux, HCI principles, & Mixing.**
+- 🌱 I’m currently learning **React, Redux, HCI principles, and Mixing.**
 
 - 📝 I regularly post music videos on [https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649)
 
