@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **MusePot (Start-up) as a front-end developer & designer.**
 
-- 🌱 I’m currently learning **React, Redux, HCI principles, and Mixing.**
+- 🌱 I’m currently learning **React, HCI principles, extension development, and mixing.**
 
 - 📝 I regularly post music videos on [https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649)
 
