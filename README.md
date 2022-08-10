@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/kexin-ju-2572a7235/](https://www.linkedin.com/in/kexin-ju-2572a7235/)
 
-- ⚡ Fun fact: **I am extremely afraid of bugs (both)!!!**
+- ⚡ Fun fact: **I am extremely afraid of bugs and bugs!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
