@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
-<h3 align="left">Front-end Engineer / User Experience Designer / Contralto</h3>
+<h3 align="left">Front-end Engineer / User Experience Engineer / Contralto</h3>
 <br />
 
-- 🔭 I’m currently working on **MusePot (Start-up) as a front-end developer & designer.**
+- 🔭 I’m currently working on **MusePot (Start-up) and To-do Tab (a Chrome extension).**
 
-- 🌱 I’m currently learning **React, HCI principles, extension development, and mixing.**
+- 🌱 I’m currently learning **React, HCI principles, and mixing.**
 
 - 📝 I regularly post music videos on [https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649)
 
