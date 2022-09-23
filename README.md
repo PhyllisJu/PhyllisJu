@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
-<h3 align="left">Front-end Engineer / User Experience Engineer / Contralto</h3>
+<h3 align="left">Front-End Engineer / User Experience Engineer / Contralto</h3>
 <br />
 
 - 🔭 I’m currently working on **MusePot (Start-up) and To-do Tab (a Chrome extension).**
