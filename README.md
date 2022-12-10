@@ -1,20 +1,20 @@
 <h1 align="left">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
-<h3 align="left">Front-End Engineer / User Experience Engineer / Contralto</h3>
+<h3 align="left">Developer / User Experience Engineer / Contralto</h3>
 <br />
 
-- 🔭 I’m currently working on **MusePot (Start-up) and To-do Tab (a Chrome extension).**
+- 🔭 I’m currently seeking internships.
 
-- 🌱 I’m currently learning **Vue.js, HCI principles, and orchestra conducting.**
+- 🌱 I’m currently learning **Electon.js**.
 
 - 📝 I regularly post music videos on [https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649)
 
-- 💬 Ask me about: **A Cappella, self-media, front-end development & UX design.**
+- 💬 Ask me about: **A Cappella, web development, UX design & engineering.**
 
 - 📫 How to reach me: **kj234@cornell.edu**
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/kexin-ju-2572a7235/](https://www.linkedin.com/in/kexin-ju-2572a7235/)
 
-- ⚡ Fun fact: **I am extremely afraid of bugs and bugs!!!**
+- ⚡ Fun fact: **I am extremely afraid of bugs (not bugs in code)!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
