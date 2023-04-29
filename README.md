@@ -12,7 +12,7 @@
 - 📫 How to reach me: **kj234@cornell.edu**
 
 
-- ⚡ Fun fact: **I am extremely afraid of bugs (not bugs in code)!!!**
+- ⚡ Fun fact: **I hate bugs!**
 
 <h3 align="left">Skills:</h3>
 
