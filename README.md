@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently seeking internships.
 
-- 🌱 I’m currently learning **iOS development**.
+- 🌱 I’m currently researching **AI technologies in faceswapping, talking-photo generation, voice cloning, and voice changing**.
 
 - 📝 I regularly post music videos on [https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649)
 
-- 💬 Ask me about: **A Cappella, web development, UX design & engineering.**
+- 💬 Ask me about: **A Cappella, software development, UIUX.**
 
 - 📫 How to reach me: **kj234@cornell.edu**
 
