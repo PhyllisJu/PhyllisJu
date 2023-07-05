@@ -16,11 +16,11 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Coding Languages:** HTML, CSS, JavaScript, Java, Python, PHP, SQL, Swift, Kotlin, bash
+- **Languages:** JavaScript, Python, HTML, CSS, Java, PHP, SQL, Swift, Kotlin, bash
 
-- **Tools:** React.js, Vue.js, BootstrapVue3, Material UI, Figma, jQuery, Git
+- **Tools:** React.js, Vue.js, BootstrapVue3, Material UI, jQuery, Git
 
-- **UX Design:** User interview, affinity diagram, card sorting, persona, scenario, value proposition, requirements, sketching, storyboarding, heuristic evaluation, GenderMag method, usability testing
+- **UX Design:** User research, brainstorming, Figma prototyping, live-data prototyping, heuristic evaluation, GenderMag method, usability testing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
