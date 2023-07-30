@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently seeking internships.
 
-- 🌱 I’m currently researching **AI technologies in faceswapping, talking-photo generation, voice cloning, and voice changing**.
+- 🌱 I’m currently researching **AIGC technologies related to voide, image, video, and animation generation**.
 
 - 📝 I regularly post music videos on [XiaoHongShu](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649).
 
