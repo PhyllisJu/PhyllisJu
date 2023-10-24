@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
-<h3 align="left"> UX Engineer / Product Manager / AI Researcher</h3>
+<h3 align="left"> UX Engineer / Product Manager / User Researcher</h3>
 
 - 🔭 I’m currently seeking internships.
 
