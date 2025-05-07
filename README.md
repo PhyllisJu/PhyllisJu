@@ -1,13 +1,13 @@
-<h1 align="left">Hi 👋, I'm Kexin (Phyllis) Ju.</h1>
-<h3 align="left"> UX Engineer / Product Manager / User Researcher</h3>
+<h1 align="left">Hi 👋, I'm <a href="https://www.phyllisju.com" target="_blank">Kexin (Phyllis) Ju</a>.</h1>
+<h3 align="left"> HCI Researcher</h3>
 
-- 🔭 I’m currently seeking internships.
+- 🔭 I’m looking for PhD positions in 2025 Fall.
 
-- 🌱 I’m currently researching **AIGC technologies related to voide, image, video, and animation generation**.
+- 🌱 I’m currently researching **Human-AI Collaboration and Educational Technologies for Music and Writing**.
 
 - 📝 I regularly post music videos on [XiaoHongShu](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649).
 
-- 💬 Ask me about: **A Cappella, software development, UIUX.**
+- 💬 Ask me about: **A Cappella, photography, teaching.**
 
 - 📫 How to reach me: **kj234@cornell.edu**
 
@@ -16,11 +16,11 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Languages:** JavaScript, Python, HTML, CSS, Java, PHP, SQL, Swift, Kotlin, bash
+- **Engineering:** HTML, CSS, JavaScript, React.js, Vue.js, D3.js, Python, Prompt Engineering
 
-- **Tools:** React.js, Vue.js, BootstrapVue3, Material UI, jQuery, Git
+- **Research:** Experimental Design, Interview, Survey, Focus Group, Qualitative & Quantitative Analysis
 
-- **UX Design:** User research, brainstorming, Figma prototyping, live-data prototyping, heuristic evaluation, GenderMag method, usability testing
+- **Design:** Figma, Axure, Fusion 360
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
