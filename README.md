@@ -3,7 +3,7 @@
 
 - 🔭 I’m looking for PhD positions in 2025 Fall.
 
-- 🌱 I’m currently researching **Human-AI Collaboration and Educational Technologies for Music and Writing**.
+- 🌱 I’m currently researching **Human-AI Collaboration in Educational Technologies for Music and Writing**.
 
 - 📝 I regularly post music videos on [XiaoHongShu](https://www.xiaohongshu.com/user/profile/5db530c00000000001008a08?xhsshare=CopyLink&appuid=5db530c00000000001008a08&apptime=1657227649).
 
